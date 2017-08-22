@@ -1,11 +1,9 @@
 # React-Firebase TO DO List
-I built this app with help of the tutorial  [Wes Doyle Tutorial](https://www.youtube.com/watch?v=-RtJroTMDf4&list=LLPr4G-dB4QrbufUnpdjFutw&index=12).
-<br /> 
 A lot of modern-day fatigue from developing web applications results from the number of technologies and services we have to use simultaneously.
-
 The question is: how can we maximize our effectivity with minimum technologies. Ideally the technologies we choose would be established and have great community support.
-
 In this app, I used two technologies — React and Firebase — that enable us to create live web apps.
+<br /> 
+I built this app with help of the tutorial  ([Wes Doyle Tutorial](https://www.youtube.com/watch?v=-RtJroTMDf4&list=LLPr4G-dB4QrbufUnpdjFutw&index=12)).
 
 ![react](https://user-images.githubusercontent.com/28790452/29545331-43c01d8e-86b3-11e7-884a-51b68de68a13.gif)
 
